@@ -1,0 +1,7 @@
+{
+    "name": "myfirstapp",
+    "main": "index.js",
+    "dependencies": {
+        "@pulumi/pulumi": "latest"
+    }
+}
